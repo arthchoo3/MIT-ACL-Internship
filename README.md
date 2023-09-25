@@ -3,7 +3,7 @@ In this repository are descriptions and files of the work I did at the MIT Aeros
 
 ## **Drone Antenna Holder:**
   The Drone Antenna Holder is a two piece clamp that attached to the propeller gaurd of a hexacopter to hold radio antennas.
-The two parts of the antenna holder are held together by a ziptie.
+The two parts of the antenna holder are held together by two zipties.
 ![IMG-8882](https://github.com/arthchoo3/MIT-ACL-Internship/assets/140445967/b629756d-b484-46dc-9cdf-456ed7d329ec)
 
 

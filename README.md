@@ -16,3 +16,7 @@ The two parts of the antenna holder are held together by two zipties.
   The Drone Spacer is designed to seperate the top and bottom caarbon fiber plates in the drone so there is space for the circuitry.
 ![IMG-8957](https://github.com/arthchoo3/MIT-ACL-Internship/assets/140445967/cc11ef52-8fb0-4f10-a771-4516c6f4443c)
 
+## **Cube Experiment**
+  The Motion Capture (MoCap) space in the ACL only permits the flight of drones up to a certain size due to safety regulations. However, we aimed to test our research on large scale drones. To simulate the positioning of the UWB sensors on a larger drone, we build PVC cubes on which we mounted the UWB sensors. The positioning of the UWB sensors on these PVC cubes exactly matched that of a drone our supervisor tested in an outdoor flight space in California--allowing us to have data from true flight conditions as well as high precision MoCap data.
+![IMG-8990](https://github.com/arthchoo3/MIT-ACL-Internship/assets/140445967/e8649644-f419-46bc-b488-be12dd49b182)
+

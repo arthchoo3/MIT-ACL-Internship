@@ -20,3 +20,7 @@ The two parts of the antenna holder are held together by two zipties.
   The Motion Capture (MoCap) space in the ACL only permits the flight of drones up to a certain size due to safety regulations. However, we aimed to test our research on large scale drones. To simulate the positioning of the UWB sensors on a larger drone, we build PVC cubes on which we mounted the UWB sensors. The positioning of the UWB sensors on these PVC cubes exactly matched that of a drone our supervisor tested in an outdoor flight space in California--allowing us to have data from true flight conditions as well as high precision MoCap data.
 ![IMG-8990](https://github.com/arthchoo3/MIT-ACL-Internship/assets/140445967/e8649644-f419-46bc-b488-be12dd49b182)
 
+## **PVC Turtlebot Drones**
+  Adding the UWB sensors to the drones made them heavier than normal thus decleasing their flight time. In order to collect larger amounts of continuous flowing data, we build PVC drones the exact size as our drones to simulate the UWB's relative positions. Placing these PVC drones on TurtleBots allowed us to "fly" for longer and collect more continuous data. It also eliminated the risk of drone and sensor damage to a drone crash. We also built one of the PVC drones to be higher of the ground to simulate altitude varience.
+![IMG-9078](https://github.com/arthchoo3/MIT-ACL-Internship/assets/140445967/a206d6fc-a32a-4249-95a1-e975d27f012c)
+

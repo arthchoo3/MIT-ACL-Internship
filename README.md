@@ -1,6 +1,9 @@
 # MIT-ACL-Internship
 In this repository are descriptions and files of the work I did at the MIT Aerospace Controls Lab in the summer of 2023.
 
+# Overarching Research Topic
+All of our research was built around relative pose estimation for multi agent robotics using ultrawideband (UWB) sensors. As opposed to Global Positioning Systems (GPS) or Local Positioning Systems (LPS) which have radio antennas mounted in known fixed positions, the relative pose estimation would use only the communication between agents to determine their positions relative to each other.
+
 ## **Drone Antenna Holder:**
   The Drone Antenna Holder is a two piece clamp that attached to the propeller gaurd of a hexacopter to hold radio antennas.
 The two parts of the antenna holder are held together by two zipties.

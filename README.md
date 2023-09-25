@@ -21,6 +21,6 @@ The two parts of the antenna holder are held together by two zipties.
 ![IMG-8990](https://github.com/arthchoo3/MIT-ACL-Internship/assets/140445967/e8649644-f419-46bc-b488-be12dd49b182)
 
 ## **PVC Turtlebot Drones**
-  Adding the UWB sensors to the drones made them heavier than normal thus decleasing their flight time. In order to collect larger amounts of continuous flowing data, we build PVC drones the exact size as our drones to simulate the UWB's relative positions. Placing these PVC drones on TurtleBots allowed us to "fly" for longer and collect more continuous data. It also eliminated the risk of drone and sensor damage to a drone crash. We also built one of the PVC drones to be higher of the ground to simulate altitude varience.
+  Adding the UWB sensors to the drones made them heavier than normal thus decleasing their flight time. In order to collect larger amounts of continuous flowing data, we build PVC drones the exact size as our drones to simulate the UWB's relative positions. Placing these PVC drones on TurtleBots allowed us to "fly" for longer and collect more continuous data. It also eliminated the risk of drone and sensor damage due to a drone crash. We also built one of the PVC drones to be higher of the ground to simulate altitude varience.
 ![IMG-9078](https://github.com/arthchoo3/MIT-ACL-Internship/assets/140445967/a206d6fc-a32a-4249-95a1-e975d27f012c)
 
